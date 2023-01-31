@@ -1,0 +1,22 @@
+.heading {
+    background-color: royalblue;
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: wheat;
+}
+.note {
+    font-size: 18px;
+    color: whitesmoke;
+}
+body {
+    background-size: cover;
+}
+
+canvas {
+   border: 5px solid red;
+   border-radius: 20px;
+}
+#volume {
+    font-size: 20px;
+}
